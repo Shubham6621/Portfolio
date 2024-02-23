@@ -1,1 +1,2 @@
-# PortfoliPortfolio website inspires from sean halpin
+# Portfolio
+Portfolio website inspires from sean halpin
